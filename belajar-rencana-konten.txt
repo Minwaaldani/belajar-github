@@ -3,6 +3,7 @@ rencana konten belajar
 -javascript
 * ES6
 * Framework JS
+-struktur data dasar
 -php framework
 -interview
 -vlogs
