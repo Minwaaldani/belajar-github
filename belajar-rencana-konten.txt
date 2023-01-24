@@ -1,9 +1,12 @@
 rencana konten belajar
 
 -javascript
-* ES6
-* Framework JS
+  * ES6
+  * Framework Javascript
+  ^ vue
 -struktur data dasar
 -php framework
+  ^laravel
 -interview
 -vlogs
+-python
