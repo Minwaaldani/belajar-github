@@ -5,8 +5,10 @@ rencana konten belajar
 * Framework JS
   ^ Angular
   ^ React
+  ^ vue
+  ^ react
 -struktur data dasar
 -php framework
-  ^ CI
 -interview
 -vlogs
+-python
