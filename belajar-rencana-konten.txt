@@ -3,7 +3,8 @@ rencana konten belajar
 -javascript
   * ES6
   * Framework Javascript
-  ^ vue
+    ^ vue
+    ^ react
 -struktur data dasar
 -php framework
   ^laravel
